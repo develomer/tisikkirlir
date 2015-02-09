@@ -1,0 +1,4 @@
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir\bin\Debug\tisikkirlir.dll
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir\bin\Debug\tisikkirlir.pdb
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir\obj\Debug\tisikkirlir.dll
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir\obj\Debug\tisikkirlir.pdb

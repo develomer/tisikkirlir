@@ -1,0 +1,8 @@
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\obj\Debug\tisikkirlir_test.csprojResolveAssemblyReference.cache
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir_test.exe.config
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir_test.exe
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir_test.pdb
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir.dll
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir.pdb
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\obj\Debug\tisikkirlir_test.exe
+c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\obj\Debug\tisikkirlir_test.pdb
