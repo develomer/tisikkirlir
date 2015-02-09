@@ -3,7 +3,7 @@ Tisikkirlir
 ![cat](https://dl.dropbox.com/s/x2otko6ropilnb0/Birikindi-sizin-i%C3%A7in-sivisiyim-kilisi.jpg)
 
 
-## Kullanýmý
+## Kullanimi
 
 dll referanslara eklendikten sonra;
 			
