@@ -13,9 +13,7 @@ namespace tisikkirlir_test
         {
             string str = Console.ReadLine();
 
-            tisikkirlir tsk = new tisikkirlir();
-
-            Console.Write(tsk.funcTsk(str));
+            Console.Write(str.tskkir());
             Console.ReadKey();
         }
     }

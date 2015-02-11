@@ -7,18 +7,14 @@ using System.Text.RegularExpressions;
 
 namespace tisikkirlirr
 {
-    public class tisikkirlir
+    public static class tisikkirlir
     {
-        public string funcTsk(string param)
+        public static string tskkir(this string msg)
         {
-            string msg;
             string _LowerCase = "[aeıouü]";
             string _UpperCase = "[AEIOUÜ]";
 
-            msg = Regex.Replace(param, _LowerCase, "i");
-            msg = Regex.Replace(msg, _UpperCase, "İ");
-
-            return msg;
+            return Regex.Replace(Regex.Replace(msg, _LowerCase, "i"), _UpperCase, "İ");
         }
     }
 }

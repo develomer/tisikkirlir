@@ -6,3 +6,11 @@ c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir
 c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir.pdb
 c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\obj\Debug\tisikkirlir_test.exe
 c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir_test\obj\Debug\tisikkirlir_test.pdb
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir_test.exe.config
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir_test.exe
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir_test.pdb
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir.dll
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir_test\bin\Debug\tisikkirlir.pdb
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir_test\obj\Debug\tisikkirlir_test.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir_test\obj\Debug\tisikkirlir_test.exe
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir_test\obj\Debug\tisikkirlir_test.pdb
