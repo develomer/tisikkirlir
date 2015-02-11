@@ -3,9 +3,9 @@ Tisikkirlir
 ![cat](https://dl.dropbox.com/s/x2otko6ropilnb0/Birikindi-sizin-i%C3%A7in-sivisiyim-kilisi.jpg)
 
 
-## Kullanimi
+## Killinimi
 
-dll referanslara eklendikten sonra;
+dll rifirinsliri iklindiktin sinri:
 			
 			using tisikkirlir;
 
@@ -13,16 +13,14 @@ dll referanslara eklendikten sonra;
 			{
 				string str = Console.ReadLine();
 
-				tisikkirlir tsk = new tisikkirlir();
-
-				Console.Write(tsk.funcTsk(str));
+				Console.Write(str.tskkir());
 				Console.ReadKey();
 			}
 
 ## Contributing
 
-1. Fork it ( https://github.com/develomer/tisikkirlir/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+1. Firk it ( https://github.com/develomer/tisikkirlir/fork )
+2. Criiti yiir fiitiri brinch (`git checkout -b my-new-feature`)
+3. Cimmit yiir chingis (`git commit -am 'Add some feature'`)
+4. Pish ti thi brinch (`git push origin my-new-feature`)
+5. Criiti i niw Pill Riqiist

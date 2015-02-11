@@ -2,3 +2,8 @@ c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir
 c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir\bin\Debug\tisikkirlir.pdb
 c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir\obj\Debug\tisikkirlir.dll
 c:\users\develomer\documents\visual studio 2015\Projects\tisikkirlir\tisikkirlir\obj\Debug\tisikkirlir.pdb
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir\bin\Debug\tisikkirlir.dll
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir\bin\Debug\tisikkirlir.pdb
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir\obj\Debug\tisikkirlir.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir\obj\Debug\tisikkirlir.dll
+C:\Users\Semih\Documents\tisikkirlir\tisikkirlir\obj\Debug\tisikkirlir.pdb
